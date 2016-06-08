@@ -4,7 +4,7 @@ Un simple plugin de fonctionalité qui permet d'utiliser **Jetpack** en mode "d�
 
 Lien pour télécharger le plugin: [https://github.com/ms-studio/vol-de-nuit/archive/master.zip](https://github.com/ms-studio/vol-de-nuit/archive/master.zip)
 
-Certaines fonctions seront désactivées, mais il sera toujours possible d'activer, entre autres:
+Certaines fonctions Jetpack seront désactivées, mais il sera toujours possible d'activer, entre autres:
 
 - Types de contenu personnalisés (= Portfolio)
 - CSS Personnalisé
