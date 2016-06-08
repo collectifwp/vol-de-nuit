@@ -11,4 +11,4 @@ Certaines fonctions Jetpack seront désactivées, mais il sera toujours possible
 - Carrousel
 - Mosaïque d'images
 
-Plugin créé le 8 juin 2016, dans le cadre du [cours Développement Web](http://collectifwp.github.io/cours-web/) à l'Eracom.
+Plugin créé le 8 juin 2016, dans le cadre du [cours Programmation Web](http://collectifwp.github.io/cours-web/) à l'Eracom.
