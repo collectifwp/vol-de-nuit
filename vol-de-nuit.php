@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Vol de nuit
-Plugin URI: https://github.com/ms-studio/
+Plugin URI: https://github.com/collectifwp/vol-de-nuit
 Description: Plugin de fonctionalité pour mettre Jetpack en mode Dev.
 Version: 0.1
-Author: Manuel Schmalstieg
-Author URI: http://ms-studio.net
+Author: Collectif WP
+Author URI: https://github.com/collectifwp/
 */
 
 // Infos: https://jetpack.com/support/development-mode/
